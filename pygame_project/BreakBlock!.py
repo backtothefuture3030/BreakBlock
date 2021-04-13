@@ -215,6 +215,7 @@ while running:
                         "to_y": -6, # 공의 y축 이동방향,
                         "init_spd_y" : ball_speed_y[ball_img_idx + 1]}),  # y 최초속도
 
+
                 break
         else:  # 버그방지 
             continue
